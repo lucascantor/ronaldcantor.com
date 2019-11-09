@@ -1,6 +1,6 @@
 # cantor.cloud
 
-Version history of [cantor.cloud](https://ronaldcantor.com) on GitHub Pages
+Version history of [cantor.cloud](https://ronaldcantor.com) - hosted on AWS S3 and CloudFront
 
 ## Contributing workflow
 
